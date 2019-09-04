@@ -120,6 +120,7 @@ submit.on("click", function() {
         else {console.log("")};
     }};
 
+  //remove
   rem()
   
   //clear the input fields data after a submit click
